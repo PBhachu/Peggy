@@ -1,7 +1,30 @@
-# Pegger Releases
+<h1 align="center">Pegger</h1>
 
-This repository is used for hosting public releases of Pegger, as well as the changelog.
+<a href="#"><img width="256" height="256" src="https://cdn.prod.website-files.com/6258bf5d4f4a70f555a613d5/690a8ccbe316504b723bf95e_AppIcon-iOS-Default-512x512%401x.png" align="left" /></a>
 
-Pegger is **not** open source and this repo *DOES NOT* contain any source code for Pegger.
+<br />
 
-If you have a feature request or bug report, please go file an [issue](https://github.com/PBhachu/pegger-releases/issues/new/choose).
+### Effortless conversion with every drop.
+
+Pegger lives in your Dock and is built to instantly convert your image files (and multi-page PDFs) into JPEGs with a simple drop. When you need more, an advanced dialogue lets you resize, compress, and even convert to other formats.
+
+<br /><br /><br /><br />
+
+## Downloads
+
+### Current version
+
+Visit my website at https://www.pbhachu.co.uk/pegger to get the latest version.
+
+Also, you can check the version history in the [Releases](https://github.com/PBhachu/Pegger/releases) section.
+
+## More
+
+- [Issues](https://github.com/PBhachu/Pegger/issues) - look for open ones, [create](https://github.com/PBhachu/Pegger/issues/new) a new one.
+- [Wiki](https://github.com/PBhachu/Pegger/wiki) - learn and share Pegger knowledge.
+- [Discussions](https://github.com/PBhachu/Pegger/discussions) - chat about Pegger with others and share your ideas.
+- [Releases](https://github.com/PBhachu/Pegger/releases) - download a specific version.
+
+This repository is used mainly for hosting [releases](https://github.com/PBhachu/Pegger/releases) and to take care of [issues](https://github.com/aonez/Keka/issues).
+
+If you have a problem or a request just search the [issues](https://github.com/PBhachu/Pegger/issues) for similar ones or [create](https://github.com/PBhachu/Pegger/issues/new) a new one.
