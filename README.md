@@ -22,7 +22,6 @@ Also, you can check the version history in the [Releases](https://github.com/PBh
 
 - [Issues](https://github.com/PBhachu/Pegger/issues) - look for open ones, [create](https://github.com/PBhachu/Pegger/issues/new) a new one.
 - [Wiki](https://github.com/PBhachu/Pegger/wiki) - learn and share Pegger knowledge.
-- [Discussions](https://github.com/PBhachu/Pegger/discussions) - chat about Pegger with others and share your ideas.
 - [Releases](https://github.com/PBhachu/Pegger/releases) - download a specific version.
 
 This repository is used mainly for hosting [releases](https://github.com/PBhachu/Pegger/releases) and to take care of [issues](https://github.com/aonez/Keka/issues).
