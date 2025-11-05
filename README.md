@@ -8,7 +8,7 @@
 
 Pegger lives in your Dock and is built to instantly convert your image files (and multi-page PDFs) into JPEGs with a simple drop. When you need more, an advanced dialogue lets you resize, compress, and even convert to other formats.
 
-<br /><br /><br /><br />
+<br /><br /><br />
 
 ## Downloads
 
