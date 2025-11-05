@@ -25,4 +25,5 @@ Also, you can check the version history in the [Releases](https://github.com/PBh
 - [Releases](https://github.com/PBhachu/Pegger/releases) - download a specific version.
 
 This repository is used mainly for hosting public [releases](https://github.com/PBhachu/Pegger/releases) and to take care of [issues](https://github.com/aonez/Keka/issues).
+
 Pegger is not open source and this repo does not contain any source code for Pegger.
