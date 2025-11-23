@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Suggest an idea for Pegger
+about: Suggest an idea for Peggy
 title: "[REQ]"
 labels: enhancement
 assignees: PBhachu
