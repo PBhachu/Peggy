@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Peggy</title>
+        <item>
+            <title>1.4.0</title>
+            <pubDate>Sat, 29 Nov 2025 23:29:30 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/PBhachu/Peggy/releases/download/1.4.0/Peggy.1.4.0.dmg" length="4849495" type="application/octet-stream" sparkle:edSignature="meAnrfN1+T+hWzazQxQj0y2cYY8JtTn811MM7tpxl754akVlRrcqnsdwx1xNoe4qGraHQdvXPdpYX4TIWKVMCA=="/>
+        </item>
+    </channel>
+</rss>
