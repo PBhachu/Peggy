@@ -4,11 +4,11 @@
         <title>Peggy</title>
         <item>
             <title>1.4.0</title>
-            <pubDate>Sat, 29 Nov 2025 23:29:30 +0000</pubDate>
-            <sparkle:version>5</sparkle:version>
+            <pubDate>Sun, 30 Nov 2025 00:21:24 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/PBhachu/Peggy/releases/download/1.4.0/Peggy.1.4.0.dmg" length="4849495" type="application/octet-stream" sparkle:edSignature="meAnrfN1+T+hWzazQxQj0y2cYY8JtTn811MM7tpxl754akVlRrcqnsdwx1xNoe4qGraHQdvXPdpYX4TIWKVMCA=="/>
+            <enclosure url="https://github.com/PBhachu/Peggy/releases/download/1.4.0/Peggy.1.4.0.dmg" length="4845309" type="application/octet-stream" sparkle:edSignature="2Hd4US/2+2+C9zXtI6bGN/NvF9S55YE8mHAGP2ebQT4iehDUFkKDk/wZy6k3d0KIoOgJZMyrxlXRWkIAzp3YBw=="/>
         </item>
     </channel>
 </rss>
