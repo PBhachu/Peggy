@@ -1,6 +1,6 @@
 <h1 align="center">Peggy</h1>
 
-<a href="#"><img width="256" height="256" src="https://cdn.prod.website-files.com/6258bf5d4f4a70f555a613d5/690a8ccbe316504b723bf95e_AppIcon-iOS-Default-512x512%401x.png" align="left" /></a>
+<a href="#"><img width="256" height="256" src="https://cdn.prod.website-files.com/6258bf5d4f4a70f555a613d5/690a8ccbe316504b723bf95e_05129107fb5ac7a1b1c3d16fd6ecf1d9_AppIcon-iOS-Default-512x512%401x.png" align="left" /></a>
 
 <br />
 
