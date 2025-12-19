@@ -8,6 +8,33 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+            <style>
+                body { font-family: -apple-system, sans-serif; font-size: 13px; line-height: 1.4; }
+                h3 { font-size: 14px; font-weight: bold; margin-top: 12px; margin-bottom: 4px; }
+                ul { padding-left: 20px; margin-top: 0; }
+                li { margin-bottom: 4px; }
+            </style>
+            
+            <h3>Important</h3>
+            <ul>
+                <li>Clean Install Required: Due to a bundle identifier update, please delete the previous version of Peggy before installing this release.</li>
+                <li>Requires Mac OS X 14.0 (Sonoma) or newer.</li>
+            </ul>
+
+            <h3>New Features</h3>
+            <ul>
+                <li>Integrated Sparkle framework. You can now receive and install future updates seamlessly from within the app.</li>
+            </ul>
+
+            <h3>Fixes & Improvements</h3>
+            <ul>
+                <li>Resolved an issue where the output folder path failed to visually update after selection in the Advanced Conversion dialogue.</li>
+                <li>Fixed a bug where multiple image selections were incorrectly treated as individual disjoint events.</li>
+                <li>Modified file handling in the Advanced Dialogue. Existing JPEGs in the source folder/selection are no longer automatically skipped.</li>
+                <li>Fresh look! Updated the application name and app icon.</li>
+            </ul>
+            ]]></description>
             <enclosure url="https://github.com/PBhachu/Peggy/releases/download/1.4.0/Peggy.1.4.0.dmg" length="4845309" type="application/octet-stream" sparkle:edSignature="2Hd4US/2+2+C9zXtI6bGN/NvF9S55YE8mHAGP2ebQT4iehDUFkKDk/wZy6k3d0KIoOgJZMyrxlXRWkIAzp3YBw=="/>
         </item>
     </channel>
