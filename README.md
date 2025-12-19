@@ -27,3 +27,5 @@ Also, you can check the version history in the [Releases](https://github.com/PBh
 This repository is used mainly for hosting public [releases](https://github.com/PBhachu/Peggy/releases) and to take care of [issues](https://github.com/PBhachu/Peggy/issues).
 
 Pegger is not open source and this repository does not contain any source code for Peggy.
+
+<a href='https://ko-fi.com/T6T11QL5NF' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
