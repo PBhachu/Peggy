@@ -3,12 +3,12 @@
     <channel>
         <title>Peggy</title>
         <item>
-            <title>1.4.0</title>
-            <pubDate>Sun, 30 Nov 2025 00:21:24 +0000</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <title>1.5.0</title>
+            <pubDate>Fri, 19 Dec 2025 21:50:35 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
+<description><![CDATA[
             <style>
                 body { font-family: -apple-system, sans-serif; font-size: 13px; line-height: 1.4; }
                 h3 { font-size: 14px; font-weight: bold; margin-top: 12px; margin-bottom: 4px; }
@@ -18,24 +18,29 @@
             
             <h3>Important</h3>
             <ul>
-                <li>Clean Install Required: Due to a bundle identifier update, please delete the previous version of Peggy before installing this release.</li>
                 <li>Requires Mac OS X 14.0 (Sonoma) or newer.</li>
             </ul>
 
             <h3>New Features</h3>
             <ul>
-                <li>Integrated Sparkle framework. You can now receive and install future updates seamlessly from within the app.</li>
+                <li>WEBP Support: Added support for WEBP image converting.</li>
+                <li>Video to Still Frames: Added the ability to convert videos (MP4, MOV, AVI, etc.) into still frames.</li>
+                <li>GIF Frame Extraction: Converting an animated or multi-frame GIF now produces individual frames.</li>
+                <li>Quality Control: The Quality Slider now supports fine-grained control (1-100) instead of 10% increments.</li>
+                <li>App Icon Interactions: Added a progress indicator to the app icon during batch conversions. You can also now right-click the app icon to access 'Undo' and 'Cancel Processing' buttons.</li>
             </ul>
 
             <h3>Fixes & Improvements</h3>
             <ul>
-                <li>Resolved an issue where the output folder path failed to visually update after selection in the Advanced Conversion dialogue.</li>
-                <li>Fixed a bug where multiple image selections were incorrectly treated as individual disjoint events.</li>
-                <li>Modified file handling in the Advanced Dialogue. Existing JPEGs in the source folder/selection are no longer automatically skipped.</li>
-                <li>Fresh look! Updated the application name and app icon.</li>
+                <li>The 'Introduction' window now opens automatically on the app's first launch to improve the onboarding experience.</li>
+                <li>Changed the default modifier key for 'Force Delete Originals' to the Shift key.</li>
+                <li>Resolved an issue causing the 'Delete Originals' setting and 'Force Delete Originals' modifier to be ignored in the 'Advanced Conversion' window.</li>
+                <li>Fixed a bug where 'Recursive Folder Drop' was incorrectly enabled by default in the 'Advanced Conversion' window.</li>
+                <li>Prevented multiple instances of the Settings Window from being opened simultaneously.</li>
+                <li>Internal architectural refactoring for better performance and stability.</li>
             </ul>
             ]]></description>
-            <enclosure url="https://github.com/PBhachu/Peggy/releases/download/1.4.0/Peggy.1.4.0.dmg" length="4845309" type="application/octet-stream" sparkle:edSignature="2Hd4US/2+2+C9zXtI6bGN/NvF9S55YE8mHAGP2ebQT4iehDUFkKDk/wZy6k3d0KIoOgJZMyrxlXRWkIAzp3YBw=="/>
+            <enclosure url="https://github.com/PBhachu/Peggy/releases/download/1.5.0/Peggy.1.5.0.dmg" length="5664474" type="application/octet-stream" sparkle:edSignature="ikqifnyS9XfLsJXzqZ97cdqT1y3sA59xuGvyvLBRRxVpVz0Ryy+b3cgS4VyDa3gLAwvfgMtW5l5YZ41rtlm3DA=="/>
         </item>
     </channel>
 </rss>
