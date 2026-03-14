@@ -6,7 +6,7 @@
 
 ### Effortless conversion with every drop.
 
-Peggy lives in your Dock and is built to instantly convert your image files (and multi-page PDFs) into JPEGs with a simple drop. When you need more, an advanced dialog lets you resize, compress, and even convert to other formats.
+Peggy lives in your Dock and is built to instantly convert your image files (and multi-page PDFs) into JPEGs with a simple drop. When you need more, an advanced conversion window lets you resize, compress, and even convert to other formats.
 
 <br /><br /><br />
 
