@@ -3,10 +3,10 @@
     <channel>
         <title>Peggy</title>
         <item>
-            <title>1.6.0</title>
-            <pubDate>Mon, 16 Mar 2026 01:58:55 +0000</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <title>1.6.1</title>
+            <pubDate>Tue, 30 Jun 2026 01:01:49 +0100</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
 <description><![CDATA[
             <style>
@@ -23,28 +23,17 @@
 
             <h3>New Features</h3>
             <ul>
-                <li>More Export Formats: Expanded options to include AVIF and PSD.</li>
-<li>Adobe Illustrator Support: You can now process AI files (provided they were saved with PDF compatibility).</li>
-<li>Lanczos Resampling: Implemented the Lanczos algorithm for greater image quality and sharpness when resizing.</li>
-<li>Background Conversion Queue: You can now continue adding images to the app while a conversion is already running without interrupting or overriding the current process.</li>
-<li>Advanced Conversion Refresh: Added Modifier Buttons (for 'Delete Originals' and 'Recursive Folders') and a Reset Button (to quickly revert to default conversion values) directly into the window. Introduced Keyboard Shortcuts for faster format selection.</li>
-<li>Improved Output Selection: You can now drag and drop a folder directly into the 'Advanced Conversion' or 'Settings' window to set your output destination.</li>
-<li>'Open With' Integration: Peggy now appears in the macOS 'Open With' context menu for all compatible file types.</li>
-<li>Resize 'Long Edge' Option: Added a new resizing mode to target the longest dimension of an image while maintaining aspect ratio.</li>
-<li>Metadata Control: Added a new toggle in the 'Advanced Conversion' window to enable or disable metadata stripping.</li>
-            </ul>
+<li>Math Evaluation in Fields: You can now type basic math equations directly into the value fields in the 'Advanced Conversion' window, and Peggy will automatically calculate the result for you.</li>
+<li>Select All Shortcut: Added CMD+A support within the value fields of the 'Advanced Conversion' window for quicker editing and text selection.</li>
+</ul>
 
             <h3>Fixes & Improvements</h3>
             <ul>
-                <li>Refined Interface: General UI design improvements for a cleaner look and feel.</li>
-<li>Persistent Undo: The 'Undo' option now survives app closures, allowing you to revert changes even after restarting the app.</li>
-<li>Timestamp Preservation: Fixed a bug to ensure original metadata timestamps are copied over to the new file instead of being reset to the current time.</li>
-<li>WEBP Orientation: Resolved an issue where WEBP files would lose rotation/orientation data during conversion.</li>
-<li>Descriptive Notifications: Reworded app notifications to provide clearer, more helpful feedback.</li>
-<li>Enhanced Logging: Improved internal logging to assist with troubleshooting and performance monitoring.</li>
-            </ul>
+<li>AI/PDF Height Control: Fixed a bug that prevented the height control fields from functioning properly when processing Adobe Illustrator and PDF files.</li>
+<li>PNG Transparency Preservation: Resolved a transparency bug that occurred when converting WEBP and AVIF files to PNG format.</li>
+</ul>
             ]]></description>
-            <enclosure url="https://github.com/PBhachu/Peggy/releases/download/1.6.0/Peggy.1.6.0.dmg" length="5986637" type="application/octet-stream" sparkle:edSignature="k/Tec1qVZIE0FPw4wz+15o9KWoZEYotH3qPeJ+qWGydXRQRy48ECoCe7XQw4AVDr6jnjxEq93dBcER9L7H6oAA=="/>
+            <enclosure url="https://github.com/PBhachu/Peggy/releases/download/1.6.1/Peggy.1.6.1.dmg" length="4392459" type="application/octet-stream" sparkle:edSignature="xgjQL8m7np8GwqSku6WqwdxSOIUuBC1/q5xcbUq0L+ymiLpY6B7E8+TLHS6WphLBDIe1rZth+IdFAGmyTtUVAg=="/>
         </item>
     </channel>
 </rss>
