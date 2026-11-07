@@ -22,6 +22,7 @@ Peggy lives in your Dock and instantly converts your images, multi-page PDFs, GI
 - **Private:** everything happens on your Mac. Peggy only connects to the internet to check for updates.
 
 ## Requirements
+
 macOS 14.6 (Sonoma) or newer, on Apple silicon or Intel.
 
 ## Downloads
@@ -32,13 +33,13 @@ Visit my website at www.pbhachu.co.uk/peggy to get the latest version.
 
 Also, you can check the version history in the [Releases](https://github.com/PBhachu/Peggy/releases) section.
 
-Once installed, Peggy updates itself. Choose 'Check for Updates...' from the Peggy menu.
+Once installed, Peggy updates itself. Choose Check for Updates... from the Peggy menu.
 
 ## More
 
-- [Wiki](https://github.com/PBhachu/Peggy/wiki) - learn and share Peggy knowledge.
-- [Issues](https://github.com/PBhachu/Peggy/issues) - look for open ones, or [create](https://github.com/PBhachu/Peggy/issues/new) a new one.
-- [Releases](https://github.com/PBhachu/Peggy/releases) -download a specific version.
+- [Wiki](https://github.com/PBhachu/Peggy/wiki) - how to use Peggy, including [Settings](https://github.com/PBhachu/Peggy/wiki/Settings-&-Preferences), the [Advanced Conversion window](https://github.com/PBhachu/Peggy/wiki/Advanced-Conversion-Window), [File Naming](https://github.com/PBhachu/Peggy/wiki/File-Naming) and [Presets](https://github.com/PBhachu/Peggy/wiki/Presets).
+- [Issues](https://github.com/PBhachu/Peggy/issues) - look for open ones, [create](https://github.com/PBhachu/Peggy/issues/new) a new one.
+- [Releases](https://github.com/PBhachu/Peggy/releases) - download a specific version.
 
 This repository is used mainly for hosting public [releases](https://github.com/PBhachu/Peggy/releases) and to take care of [issues](https://github.com/PBhachu/Peggy/issues).
 Peggy is not open source and this repository does not contain any source code for Peggy.
