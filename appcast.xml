@@ -3,37 +3,47 @@
     <channel>
         <title>Peggy</title>
         <item>
-            <title>1.6.1</title>
-            <pubDate>Tue, 30 Jun 2026 01:01:49 +0100</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-<description><![CDATA[
-            <style>
-                body { font-family: -apple-system, sans-serif; font-size: 13px; line-height: 1.4; }
-                h3 { font-size: 14px; font-weight: bold; margin-top: 12px; margin-bottom: 4px; }
-                ul { padding-left: 20px; margin-top: 0; }
-                li { margin-bottom: 4px; }
-            </style>
+            <title>2.0.0</title>
+            <pubDate>Sat, 07 Nov 2026 11:56:42 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             
-            <h3>Important</h3>
-            <ul>
-                <li>Requires Mac OS X 14.0 (Sonoma) or newer.</li>
+            <description><![CDATA[
+                        <style>
+                            body { font-family: -apple-system, sans-serif; font-size: 13px; line-height: 1.4; }
+                            h3 { font-size: 14px; font-weight: bold; margin-top: 12px; margin-bottom: 4px; }
+                            ul { padding-left: 20px; margin-top: 0; }
+                            li { margin-bottom: 4px; }
+                        </style>
+                        
+                        <h3>Important</h3>
+                        <ul>
+                        <li>Requires MacOS 14.6 (Sonoma) or newer.</li>
+                        </ul>
+
+                        <h3>New Features</h3>
+                        <ul>
+                        <li>Default Format Selection: Added the long-awaited ability to change your default conversion format (choose between JPEG, PNG, HEIC, or WEBP) to speed up repetitive workflows.</li>
+                        <li>Conversion Presets: You can now create and select custom conversion presets directly in the 'Advanced Conversion' window. Presets can also be imported and exported via the 'Settings' window.</li>
+                        <li>Enhanced Renaming Controls: Upgraded the file renaming capabilities to provide significantly more flexibility and structural control.</li>
+                        <li>JPEG/JPG Toggle: Added a dedicated switch to seamlessly swap your output extension between .jpeg and .jpg.</li>
+                        <li>Arrow Key Navigation: You can now use the keyboard arrow keys to quickly increment or decrement numerical values within the 'Advanced Conversion' window.</li>
+                        <li>Skip Multi-Frame Conversions: Introduced a toggle that allows you to skip the multi-frame conversion process for GIFs and video files.</li>
             </ul>
 
-            <h3>New Features</h3>
-            <ul>
-<li>Math Evaluation in Fields: You can now type basic math equations directly into the value fields in the 'Advanced Conversion' window, and Peggy will automatically calculate the result for you.</li>
-<li>Select All Shortcut: Added CMD+A support within the value fields of the 'Advanced Conversion' window for quicker editing and text selection.</li>
-</ul>
-
-            <h3>Fixes & Improvements</h3>
-            <ul>
-<li>AI/PDF Height Control: Fixed a bug that prevented the height control fields from functioning properly when processing Adobe Illustrator and PDF files.</li>
-<li>PNG Transparency Preservation: Resolved a transparency bug that occurred when converting WEBP and AVIF files to PNG format.</li>
-</ul>
+                        <h3>Fixes & Improvements</h3>
+                        <ul>
+                        <li>Modernised Interface: Restyled the 'Settings' and 'Advanced Conversion' windows for a cleaner, modern aesthetic. The 'Introduction' window has also been unified with the 'Settings' window for a smoother onboarding experience.</li>
+                        <li>Golden Gate Support: Added compatibility for MacOS 27, resolving a bug that previously affected window controls on this version.</li>
+                        <li>Notification Permissions: Fixed an issue with app alerts by adding a system settings popup prompt when enabling notifications.</li>
+                        <li>Better SVG Handling: Improved the overall reliability and output quality of SVG conversions.</li>
+                        <li>Suffix Text Selection: Fixed a bug to ensure CMD+A now successfully selects all text when editing the file name suffix in the 'Settings' window.</li>
+                        <li>Streamlined Modifiers: Removed the 'Recursive Folder' and 'Force Delete' modifier keys to simplify the interface.</li>
+            </ul>
             ]]></description>
-            <enclosure url="https://github.com/PBhachu/Peggy/releases/download/1.6.1/Peggy.1.6.1.dmg" length="4392459" type="application/octet-stream" sparkle:edSignature="xgjQL8m7np8GwqSku6WqwdxSOIUuBC1/q5xcbUq0L+ymiLpY6B7E8+TLHS6WphLBDIe1rZth+IdFAGmyTtUVAg=="/>
+            
+            <enclosure url="https://github.com/PBhachu/Peggy/releases/download/2.0.0/Peggy.2.0.0.dmg" length="4722851" type="application/octet-stream" sparkle:edSignature="vX4cUrSbRFBBooWwwQtUNQsjQp+aS8wCUQtBvMD887Z96B+clO8sBlSTSCRWqoRdPV+PuW44/r/bmUZpNV4MDA=="/>
         </item>
     </channel>
 </rss>
