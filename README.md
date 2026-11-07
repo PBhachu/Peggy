@@ -22,7 +22,7 @@ Peggy lives in your Dock and instantly converts your images, multi-page PDFs, GI
 - **Private:** everything happens on your Mac. Peggy only connects to the internet to check for updates.
 
 ## Requirements
-MacOS 14.6 (Sonoma) or newer, on Apple silicon or Intel.
+macOS 14.6 (Sonoma) or newer, on Apple silicon or Intel.
 
 ## Downloads
 
